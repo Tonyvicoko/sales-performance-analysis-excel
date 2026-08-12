@@ -58,7 +58,7 @@ The interactive dashboard includes:
 
 ## Project Files
 
-- `Excel_Sales_Analysis_Project.xlsx` – Complete Excel analysis and dashboard.
+- `Sales_Performance_Analysis.xlsx` – Complete Excel analysis and dashboard.
 - `Dashboard.png` – Preview of the final dashboard.
 
 ## Learning Outcome
